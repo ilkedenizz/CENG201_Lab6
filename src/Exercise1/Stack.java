@@ -1,3 +1,8 @@
+/**
+ * Name:        İlke Deniz Karakaş
+ * Student ID:  240444405
+ * Date:        24.11.2026
+ */
 package Exercise1;
 
 public class Stack {
